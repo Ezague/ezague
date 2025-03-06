@@ -17,7 +17,7 @@
 
 ### 🛠 Tech Stack  
 - **Languages:** TypeScript, JavaScript, Python, SQL  
-- **Frontend:** React, Svelte, Chakra UI, Flowbite-Svelte  
+- **Frontend:** React, Svelte
 - **Backend:** Node.js, SQLAlchemy, Quart  
 - **Databases:** PostgreSQL, SQLite, MSSQL
 - **DevOps & Tools:** Docker
