@@ -19,7 +19,7 @@
 - **Languages:** TypeScript, JavaScript, Python, SQL  
 - **Frontend:** React, Svelte
 - **Backend:** Node.js, SQLAlchemy, Quart  
-- **Databases:** PostgreSQL, SQLite, MSSQL
+- **Databases:** PostgreSQL, SQLite, MySQL
 - **DevOps & Tools:** Docker
 
 ---
