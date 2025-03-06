@@ -36,12 +36,6 @@
 
 ---
 
-### 🔥 Featured Projects  
-🚧 *[RustRelay.com](https://rustrelay.com)* - Services for Rust players, including in-game ↔ Discord integration  
-🔧 More projects coming soon...  
-
----
-
 ### 📫 Connect With Me  
 💬 Discord: **Ezague**  
 🐙 GitHub: [Ezague](https://github.com/Ezague)  
