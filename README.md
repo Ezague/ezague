@@ -17,10 +17,10 @@
 
 ### 🛠 Tech Stack  
 - **Languages:** TypeScript, JavaScript, Python, SQL  
-- **Frontend:** React, Svelte
+- **Frontend:** React, Svelte  
 - **Backend:** Node.js, SQLAlchemy, Quart  
-- **Databases:** PostgreSQL, SQLite, MySQL
-- **DevOps & Tools:** Docker
+- **Databases:** PostgreSQL, SQLite, MySQL  
+- **Tools & DevOps:** Docker
 
 ---
 
