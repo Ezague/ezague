@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250"> <style> @keyframes typing1 { from { width: 0 } to { width: 280px } } @keyframes typing2 { from { width: 0 } to { width: 370px } } @keyframes typing3 { from { width: 0 } to { width: 310px } } @keyframes blink { 50% { opacity: 0 } } .line1 { animation: typing1 1.5s steps(20) 0.5s both } .line2 { animation: typing2 2s steps(28) 2.5s both } .line3 { animation: typing3 1.5s steps(22) 5s both } .cursor { animation: blink 1s step-end infinite } </style> <rect width="800" height="250" rx="12" fill="#161B22" stroke="#FF0000" stroke-width="1.5"/> <circle cx="28" cy="22" r="6" fill="#FF5F56"/> <circle cx="48" cy="22" r="6" fill="#FFBD2E"/> <circle cx="68" cy="22" r="6" fill="#27C93F"/>
+<text x="350" y="22" fill="#666" font-family="monospace" font-size="13" text-anchor="middle">ezague@github ~ </text>
+
+<line x1="0" y1="40" x2="800" y2="40" stroke="#333" stroke-width="1"/>
+<clipPath id="c1"><rect x="30" y="55" class="line1" height="30"/></clipPath> <clipPath id="c2"><rect x="30" y="100" class="line2" height="30"/></clipPath> <clipPath id="c3"><rect x="30" y="145" class="line3" height="30"/></clipPath>
+
+<text x="30" y="78" fill="#FF0000" font-family="monospace" font-size="18" font-weight="bold" clip-path="url(#c1)">$ whoami → Ezague</text>
+
+<text x="30" y="128" fill="#FF0000" font-family="monospace" font-size="18" clip-path="url(#c2)">$ location → Denmark</text>
+
+<text x="30" y="168" fill="#FF0000" font-family="monospace" font-size="18" clip-path="url(#c3)">$ stack → TypeScript | Python | SQL</text>
+
+<rect x="340" y="155" width="10" height="20" fill="#FF0000" class="cursor" opacity="0" style="animation-delay: 7s"/>
+<text x="30" y="215" fill="#444" font-family="monospace" font-size="12">Full Stack Developer · Building the web, one brick at a time.</text>
+
+</svg>
