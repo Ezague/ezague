@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me  
-💻 Passionate about backend & frontend development, working with **TypeScript, Python, Svelte, and SQL**  
+💻 Passionate about backend & frontend development, working with **TypeScript, Python and SQL**  
 🛠️ Experienced in **building web apps, bots, and automation tools**  
 🎯 Always learning new technologies and optimizing workflows  
 
